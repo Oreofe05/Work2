@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+    display: flex;
+
+    justify-content: center;
+    color: white;
+    margin: auto;
+
+}
+
+div {
+    margin-top: 200px;
+    width: 200px;
+    height: 300px;
+
+}
+
+.one {
+    background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    justify-content: center;
+
+
+
+}
+
+.but {
+    color: hsl(31, 77%, 52%);
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: white;
+    border: none;
+}
+
+.lear {
+    text-decoration: none;
+    color: hsl(31, 77%, 52%);
+}
+
+.svg {
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.swe {
+    font-size: large;
+}
+
+.onep {
+    font-size: x-small;
+    margin-left: 20px;
+}
+
+.two {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.thr {
+    background-color: hsl(179, 100%, 13%);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
